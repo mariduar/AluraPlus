@@ -37,3 +37,19 @@ body {
   text-decoration: none;
   display: block;
 }
+
+.botao_secundario {
+     background-color: transparent;
+     border: 2px solid #FFFFFF;
+     border: 2px solid var(--branco-principal);
+
+}
+
+
+
+
+
+
+
+
+}
