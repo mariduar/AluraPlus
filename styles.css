@@ -53,10 +53,10 @@ font-size: 12px;
 color: var(--cinza-secundario);
 }
 .container_caixa{
-margin: 0% 6cm;
+margin: 0% 6em;
 }
 .container__imagem{
-  margin: 1 cm 0 2cm;
+  margin: 1em 0 2em;
 }
 .principal{
 align-items: center;
