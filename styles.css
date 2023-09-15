@@ -67,7 +67,8 @@ text-align: center;
 }
 .secundario{
   align-items: center;
-  margin: 0 10 em;
+  margin: 0 10
+  em;
 }
 .secundario__imagem {
   width: 80%;
