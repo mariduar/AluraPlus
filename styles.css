@@ -65,5 +65,12 @@ text-align: center;
 .container__botao{
   margin-bottom: 1em;
 }
+.secundario{
+  align-items: center;
+  margin: 0 10 em;
+}
+.secundario__imagem {
+  width: 80%;
+}
 
 
