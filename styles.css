@@ -73,5 +73,13 @@ text-align: center;
 .secundario__imagem {
   width: 80%;
 }
-
-
+.descricao__titulo{
+font-weight: 700;
+font-size: 48px;
+color: #FFFFFF;
+margin-bottom:0.1em;
+}
+.descricao__texto{
+color: #C0C0C0;
+line-height: 150%;
+}
