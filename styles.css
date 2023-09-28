@@ -18,7 +18,7 @@ body {
 .principal {
   background-image: url("https://img.elo7.com.br/product/original/107AC38/painel-princesa-sofia-g-frete-gratis-painel-digital.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   
 }
 
