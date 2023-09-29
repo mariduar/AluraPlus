@@ -65,6 +65,11 @@ text-align: center;
 .container__botao{
   margin-bottom: 1em;
 }
+.planoFundo{
+  background-image: url(https://ae01.alicdn.com/kf/H6b60c6916eac4e1f84a7a1b2cbc01bbdO/Festa-de-anivers-rio-das-crian-as-conto-de-fadas-castelo-fundo-rei-princesa-castelo-exterior.jpg_640x640.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .secundario{
   align-items: center;
   margin: 0 10em;
