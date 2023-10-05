@@ -93,3 +93,7 @@ line-height: 150%;
 .titulo2{
   color: crimson;
 }
+.dispositivos__lista {
+  display:flex;
+  justify-content: center;
+}
