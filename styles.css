@@ -100,6 +100,7 @@ line-height: 150%;
 }
 .dispositivos__titulo {
   text-align: center;
+  margin-top: 1em;
 }
 .rodape__lista {
   display: flex;
@@ -117,4 +118,5 @@ footer {
 
   .rodape__titulo {
     color: aliceblue;
+    margin-top: 1em;
   }
