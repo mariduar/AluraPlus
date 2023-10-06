@@ -110,3 +110,11 @@ line-height: 150%;
   display: flex;
   justify-content: space-between;
 }
+
+footer {
+  text-align: center;
+}
+
+  .rodape__titulo {
+    color: aliceblue;
+  }
