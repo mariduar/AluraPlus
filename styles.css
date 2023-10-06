@@ -105,3 +105,8 @@ line-height: 150%;
   display: flex;
   justify-content: space-between;
 }
+
+.rodape__lista {
+  display: flex;
+  justify-content: space-between;
+}
