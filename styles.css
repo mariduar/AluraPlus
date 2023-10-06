@@ -114,9 +114,14 @@ line-height: 150%;
 
 footer {
   text-align: center;
+  padding: 3em 0;
 }
 
   .rodape__titulo {
     color: aliceblue;
     margin-top: 1em;
+  }
+
+  .dispositivos{
+    padding: 3em 0;
   }
